@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 07/01/2025*
+*last update: 11/01/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -32,14 +32,14 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Support 2nd card setup
 - Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
 - Has a lot of community apps on Discord
+- More frequent public updates
 - Has roadmap for future releases
 - Multilingual
 ### Cons:
-- No bluetooth
-- Less frequent public updates
+- No bluetooth (possible with 3rd party apps)
 - No OTA updates
 - Must do clean install when major updates
-- No built-in scraping
+- No built-in scraping (possible with 3rd party apps)
 
 -------------------- 
 ## [knulli (batocera)](https://knulli.org/)
