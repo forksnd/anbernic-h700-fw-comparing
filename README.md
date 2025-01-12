@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 11/01/2025*
+*last update: 12/01/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -15,12 +15,13 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Source](https://github.com/MustardOS)  
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Fixed analogue stick cardinal snapping issue
 - Fast boot times
 - Wifi with profiles and WPA3 support
 - Full PortMaster support (both 64 and 32 bit)
 - RetroAchievements
 - HDMI support
-- Fixed analogue stick cardinal snapping issue
+- USB OTG support
 - Support for RGB lights
 - Has Archive Manager app (basic app, patch, theme, backup etc. installer)
 - Has a lot of pre-installed apps
@@ -58,6 +59,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - HDMI support
+- USB OTG support
 - Support for RGB lights
 - Theme support
 - Has theme store and users also install themes manually
@@ -97,6 +99,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - HDMI support
+- USB OTG support
 - Support for RGB lights
 - Theme support
 - Has theme store and users also install themes manually
@@ -127,9 +130,9 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Source](https://github.com/shauninman/MinUI)
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Fixed analogue stick cardinal snapping issue
 - Fast boot times
 - Minimal interface with minimal setup/options
-- Fixed analogue stick cardinal snapping issue
 - HDMI support
 - More frequent updates
 - Has ability to do dirty update
@@ -138,6 +141,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Less support for emulation of game consoles
 - No wifi
 - No bluetooth
+- ? No USB OTG supoort
 - No PortMaster support
 - No built-in scraper
 - No OTA updates
@@ -157,13 +161,14 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Source](https://github.com/loki666/ROCKNIX/)
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Fixed analogue stick cardinal snapping issue
 - Trying to use mainline Linux kernel
 - EmulationStation frontend
 - Bluetooth support for both controllers and earphones
 - Wifi support
 - RetroAchievements
 - Built-in scraper
-- Fixed analogue stick cardinal snapping issue
+- Full PortMaster support (both 64 and 32 bit)
 - More frequent updates
 - Theme support
 - Samba support for file sharing
@@ -178,7 +183,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ### Cons:
 - Has ramdom freezing issues
 - Longer boot times
-- No PortMaster support
+- No USB OTG supoort
 - No HDMI support
 - No wifi profiles support
 - No wifi WPA3 support (will fixed)
@@ -211,13 +216,13 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Source: -
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Fixed analogue stick cardinal snapping issue
 - More frequent updates
 - All stock os features & options
 - Bluetooth support (only for controllers)
 - Wifi with WPA3 support
 - RetroAchievements
 - HDMI support
-- Fixed analogue stick cardinal snapping issue
 - Support for RGB lights
 - Has a lot of pre-installed apps
 - Theming support
