@@ -155,10 +155,10 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 --------------------  
 ## [ROCKNIX](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
-- Status: RC (Release Candidate)
-- Last update: 04/01/2025
-- [Releases](https://github.com/loki666/ROCKNIX/releases)
-- [Source](https://github.com/loki666/ROCKNIX/)
+- Status: Stable
+- Last update: 15/01/2025
+- [Releases](https://github.com/ROCKNIX/distribution/releases/)
+- [Source](https://github.com/ROCKNIX/distribution/)
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Fixed analogue stick cardinal snapping issue
