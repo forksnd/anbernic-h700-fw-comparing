@@ -187,7 +187,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No HDMI support
 - No wifi profiles support
 - No wifi WPA3 support (will fixed)
-- ? No sleep mode
 - No community apps
 
 -------------------- 
