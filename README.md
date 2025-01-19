@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 16/01/2025*
+*last update: 19/01/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -137,7 +137,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - More frequent updates
 - Has ability to do dirty update
 ### Cons:
-- No support for rg34xx
 - Less support for emulation of game consoles
 - No wifi
 - No bluetooth
@@ -156,7 +155,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [ROCKNIX](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
 - Status: Stable
-- Last update: 15/01/2025
+- Last update: 18/01/2025
 - [Releases](https://github.com/ROCKNIX/distribution/releases/)
 - [Source](https://github.com/ROCKNIX/distribution/)
 ### Pros:
