@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 19/01/2025*
+*last update: 21/01/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -183,6 +183,42 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has ramdom freezing issues
 - Longer boot times
 - No USB OTG supoort
+- No HDMI support
+- No wifi profiles support
+- No wifi WPA3 support (will fixed)
+- No community apps
+  
+--------------------  
+## [ROCKNIX PRE-RELEASE](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
+### Info:
+- Status: Stable, Pre-Release
+- Last update: 20/01/2025
+- [Releases](https://github.com/loki666/ROCKNIX/releases)
+- [Source](https://github.com/loki666/ROCKNIX)
+### Pros:
+- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Fixed analogue stick cardinal snapping issue
+- Trying to use mainline Linux kernel
+- EmulationStation frontend
+- Bluetooth support for both controllers and earphones
+- Wifi support
+- RetroAchievements
+- Built-in scraper
+- Full PortMaster support (both 64 and 32 bit)
+- More frequent updates
+- Theme support
+- Samba support for file sharing
+- Support 2nd card setup
+- Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
+- Has VPN
+- Has cloud drive sync
+- Has OTA updates
+- Has ability to do dirty update
+- Has a lot of customization options
+- Multilingual
+### Cons:
+- Has ramdom freezing issues
+- Longer boot times
 - No HDMI support
 - No wifi profiles support
 - No wifi WPA3 support (will fixed)
