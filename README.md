@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 22/01/2025*
+*last update: 27/01/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -86,11 +86,12 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [knulli alpha (batocera)](https://knulli.org/)
 ### Info:
 - Status: WIP
-- Last update: 13/01/2025
+- Last update: 26/01/2025
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Trying to use mainline Linux kernel
 - EmulationStation frontend
 - Fixed analogue stick cardinal snapping issue
 - Bluetooth support for both controllers and earphones
@@ -125,7 +126,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [MinUI](https://github.com/shauninman/MinUI/blob/main/README.md)
 ### Info:
 - Status: Stable
-- Last update: 11/01/2025
+- Last update: 26/01/2025
 - [Releases](https://github.com/shauninman/MinUI/releases)
 - [Source](https://github.com/shauninman/MinUI)
 ### Pros:
