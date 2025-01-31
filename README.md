@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 27/01/2025*
+*last update: 31/01/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -20,7 +20,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Wifi with profiles and WPA3 support
 - Full PortMaster support (both 64 and 32 bit)
 - RetroAchievements
-- HDMI support
+- HDMI support (except rg28xx)
 - USB OTG support
 - Support for RGB lights
 - Has Archive Manager app (basic app, patch, theme, backup etc. installer)
@@ -38,6 +38,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Multilingual
 ### Cons:
 - No bluetooth (possible with 3rd party apps)
+- No HDMI support for rg28xx
 - No OTA updates
 - Must do clean install when major updates
 - No built-in scraping (possible with 3rd party apps)
