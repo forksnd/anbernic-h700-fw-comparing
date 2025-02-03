@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 31/01/2025*
+*last update: 03/02/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -195,7 +195,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [ROCKNIX PRE-RELEASE](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
 - Status: Stable, Pre-Release
-- Last update: 20/01/2025
+- Last update: 02/02/2025
 - [Releases](https://github.com/loki666/ROCKNIX/releases)
 - [Source](https://github.com/loki666/ROCKNIX)
 ### Pros:
@@ -208,6 +208,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - RetroAchievements
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
+- Support for RGB lights
 - More frequent updates
 - Theme support
 - Samba support for file sharing
@@ -225,7 +226,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No HDMI support
 - No wifi profiles support
 - No wifi WPA3 support (will fixed)
-- No RGB support
 - No community apps
 
 -------------------- 
