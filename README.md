@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 07/02/2025*
+*last update: 11/02/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -192,10 +192,10 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No community apps
   
 --------------------  
-## [ROCKNIX PRE-RELEASE](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
+## [ROCKNIX UNOFFICIAL](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
-- Status: Stable, Pre-Release
-- Last update: 02/02/2025
+- Status: Stable, Pre-Release, Unofficial
+- Last update: 10/02/2025
 - [Releases](https://github.com/loki666/ROCKNIX/releases)
 - [Source](https://github.com/loki666/ROCKNIX)
 ### Pros:
@@ -216,7 +216,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
 - Has VPN
 - Has cloud drive sync
-- Has OTA updates
 - Has ability to do dirty update
 - Has a lot of customization options
 - Multilingual
@@ -226,6 +225,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No HDMI support
 - No wifi profiles support
 - No wifi WPA3 support (will fixed)
+- No OTA updates
 - No community apps
 
 -------------------- 
@@ -274,6 +274,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No source code
 - Partial PortMaster support
 - No built-in scraping
+- No OTA updates
 - Only English and Chinese
 - No wifi profiles support
 
@@ -304,6 +305,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Must do clean install every update
 - Partial PortMaster support
 - No built-in scraping
+- No OTA updates
 - No theming
 - No any connection & file sharing options out of box (syncthing, ftp, ssh etc.)
 - Only English and Chinese
