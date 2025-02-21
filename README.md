@@ -288,6 +288,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Bundled with a lot of games
+- Has piracy rom downloader tool
 - Bluetooth support (only for controllers)
 - Wifi with profiles and WPA3 support
 - Built-in scraper
