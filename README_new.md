@@ -1,5 +1,5 @@
 # !Advert!
-es-theme-knulli, the most beautiful and simple knulli theme. [Screenshots](https://github.com/symbuzzer/es-theme-knulli/blob/main/screenshots/README.md) - [Features list and installation guide](https://github.com/symbuzzer/es-theme-knulli/blob/main/README.md)
+ES-THEME-KNULLI, the most beautiful and simple EmulationStation theme for handheld devices. [Screenshots](https://github.com/symbuzzer/es-theme-knulli/blob/main/screenshots/README.md) - [Features list and installation guide](https://github.com/symbuzzer/es-theme-knulli/blob/main/README.md)
 --------------------
 
 # Regularly updated list of firmware compare for Anbernic H700 devices
