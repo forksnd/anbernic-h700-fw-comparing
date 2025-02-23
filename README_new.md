@@ -1,3 +1,8 @@
+# !Advert!
+es-theme-knulli, the most beautiful and simple knulli theme.
+[Screenshots](https://github.com/symbuzzer/es-theme-knulli/blob/main/screenshots/README.md) - [Features list and installation guide](https://github.com/symbuzzer/es-theme-knulli/blob/main/README.md)
+--------------------
+
 # Regularly updated list of firmware compare for Anbernic H700 devices
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
