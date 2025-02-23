@@ -47,7 +47,6 @@ def parse_readme_by_lines(input_file):
 
 
 def create_markdown_table_with_general_info(general_info, firmware_data, output_file):
-    """Firmware bilgileriyle Markdown tablosu oluşturur ve genel bilgileri ekler."""
     with open(output_file, 'w', encoding='utf-8') as file:
         for line in general_info:
             file.write(line + "\n")
@@ -56,7 +55,6 @@ def create_markdown_table_with_general_info(general_info, firmware_data, output_
         file.write("| Firmware                | Info                                                                 | Pros                                                                | Cons                                    |\n")
         file.write("|:------------------------|:--------------------------------------------------------------------|:--------------------------------------------------------------------|:---------------------------------------|\n")  # Ortalanmış sütunlar
 
-        # Tablo satırları
         for item in firmware_data:
             file.write(
                 f"| {item['name']:<24} | {item['info'].strip():<70} | {item['pros'].strip():<70} | {item['cons'].strip():<40} |\n"
