@@ -6,7 +6,7 @@ ES-THEME-KNULLI, the most beautiful and simple EmulationStation theme for handhe
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 23/02/2025*
+*last update: 04/03/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -253,7 +253,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
 ### Info:
 - Status: Stable
-- Last update: 28/12/2024
+- Last update: 25/02/2025
 - [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
 - Source: -
 ### Pros:
@@ -262,8 +262,9 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - More frequent updates
 - All stock os features & options
 - Bluetooth support (only for controllers)
-- Wifi with WPA3 support
+- Wifi with profiles and WPA3 support
 - RetroAchievements
+- Built-in scraper (via pre-installed 3rd party app)
 - HDMI support
 - Support for RGB lights
 - Has a lot of pre-installed apps
@@ -274,13 +275,11 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has ability to do dirty update
 - Has a lot of pre-installed apps
 - Has a lot of pre-installed themes
+- Multilingual
 ### Cons:
 - No source code
 - Partial PortMaster support
-- No built-in scraping
 - No OTA updates
-- Only English and Chinese
-- No wifi profiles support
 
 -------------------- 
 ## [stock](https://win.anbernic.com/download_data/403.html)
@@ -304,6 +303,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Support 2nd card setup
 - Has a lot of pre-installed apps
 - Has a lot of 3rd party apps like terminal, ssh, sftp, scp etc
+- Multilingual
 ### Cons:
 - No source code
 - Has analogue stick cardinal snapping issue
@@ -313,7 +313,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No OTA updates
 - No theming
 - No any connection & file sharing options out of box (syncthing, ftp, ssh etc.)
-- Only English and Chinese
   
 -------------------- 
 ## [DesktopOS](https://github.com/game-de-it/rg35xx/releases/tag/RG35xx_H700_DesktopOS_0.2)
