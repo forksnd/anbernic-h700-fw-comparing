@@ -6,7 +6,7 @@ ES-THEME-KNULLI, the most beautiful and simple EmulationStation theme for handhe
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 26/03/2025*
+*last update: 05/04/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -166,9 +166,10 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 --------------------  
 ## [ROCKNIX](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
-- Status: Stable
+- Status: Stable and Nightky
 - Last update: 18/01/2025
-- [Releases](https://github.com/ROCKNIX/distribution/releases/)
+- [Stable releases](https://github.com/ROCKNIX/distribution/releases/)
+- [Nightly releases](https://nightly.rocknix.org/)
 - [Source](https://github.com/ROCKNIX/distribution/)
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
@@ -181,7 +182,8 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - In-game translation
-- More frequent updates
+- More frequent stable updates
+- Daily nightly updates
 - Theme support
 - Samba support for file sharing
 - Support 2nd card setup
@@ -193,7 +195,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has a lot of customization options
 - Multilingual
 ### Cons:
-- Has ramdom freezing issues
+- Has ramdom freezing, sleep and suspend issues
 - Longer boot times
 - No USB OTG supoort
 - No HDMI support
@@ -232,7 +234,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has a lot of customization options
 - Multilingual
 ### Cons:
-- Has ramdom freezing issues
+- Has ramdom freezing, sleep and suspend issues
 - Longer boot times
 - No HDMI support
 - No wifi profiles support
