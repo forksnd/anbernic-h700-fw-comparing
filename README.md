@@ -107,7 +107,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - HDMI support
 - USB OTG support
 - ADB support
-- MTP support
 - Support for RGB lights
 - Theme support
 - Has theme store and users also install themes manually
@@ -125,6 +124,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ### Cons:
 - Longer boot times
 - No OTA updates
+- Has MTP option but not works
 - Must do clean install when major updates
 - No community apps
 - No wifi WPA3 support
