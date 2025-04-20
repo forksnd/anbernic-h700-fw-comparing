@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 17/04/2025*
+*last update: 20/04/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -90,7 +90,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [knulli alpha (batocera)](https://knulli.org/)
 ### Info:
 - Status: WIP
-- Last update: 15/04/2025
+- Last update: 18/04/2025
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
@@ -107,6 +107,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - HDMI support
 - USB OTG support
 - ADB support
+- MTP support
 - Support for RGB lights
 - Theme support
 - Has theme store and users also install themes manually
@@ -124,7 +125,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ### Cons:
 - Longer boot times
 - No OTA updates
-- Has MTP option but not works
 - Must do clean install when major updates
 - No community apps
 - No wifi WPA3 support
