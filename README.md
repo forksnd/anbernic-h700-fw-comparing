@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 20/04/2025*
+*last update: 21/04/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -178,16 +178,15 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - In-game translation
-- More frequent stable updates
-- Daily nightly updates
+- More frequent stable updates via OTA
+- Daily nightly updates via OTAc
+- Has ability to do dirty update
 - Theme support
 - Samba support for file sharing
 - Support 2nd card setup
 - Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
 - Has VPN
-- Has cloud drive sync
-- Has OTA updates
-- Has ability to do dirty update
+- Has cloud drive syn
 - Has a lot of customization options
 - Multilingual
 ### Cons:
@@ -237,23 +236,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No wifi WPA3 support (will fixed)
 - No OTA updates
 - No community apps
-
--------------------- 
-## [GarlicOS](https://www.patreon.com/blackseraph)
-### Info:
-- Status: WIP
-- Last update: 04/05/2024
-- [Releases](https://github.com/GarlicOS/buildroot/releases/)
-- [Source](https://github.com/GarlicOS)
-### Pros:
-- Able to install as 2nd os with stock os
-- Able to boot with stock os
-- ?
-### Cons:
-- Very slow development
-- Less frequent updates
-- Has known issues
-- ?
 
 -------------------- 
 ## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
@@ -319,15 +301,4 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No OTA updates
 - No theming
 - No any connection & file sharing options out of box (syncthing, ftp, ssh etc.)
-  
--------------------- 
-## [DesktopOS](https://github.com/game-de-it/rg35xx/releases/tag/RG35xx_H700_DesktopOS_0.2)
-### Info:
-- Status: Unknown
-- Last update: 02/07/2024
-- [Releases](https://github.com/game-de-it/rg35xx/releases) *(You should look DesktopOS from there)*
-- Source: -
-### Pros:
-*There is no information about this cfw for now*
-### Cons:
-*There is no information about this cfw for now*
+
