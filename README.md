@@ -162,7 +162,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 --------------------  
 ## [ROCKNIX](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
-- Status: Stable and Nightky
+- Status: Stable and Nightly
 - Last update: 18/01/2025 (stable)
 - [Stable releases](https://github.com/ROCKNIX/distribution/releases/)
 - [Nightly releases](https://nightly.rocknix.org/)
