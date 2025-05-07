@@ -49,7 +49,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [knulli (batocera)](https://knulli.org/)
 ### Info:
 - Status: Stable
-- Last update: 05/05/2024
+- Last update: 05/05/2025
 - [Releases](https://github.com/knulli-cfw/distribution/releases)
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
