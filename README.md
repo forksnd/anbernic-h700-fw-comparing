@@ -82,6 +82,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ### Cons:
 - Longer boot times
 - Deadly less frequent public updates
+- No OTA updates
 - Must do clean install when major updates
 - No community apps
 - No WI-FI WPA3 support
