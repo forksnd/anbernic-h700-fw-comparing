@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 06/05/2025*
+*last update: 07/05/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -17,7 +17,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Fixed analogue stick cardinal snapping issue
 - Fast boot times
-- Wifi with profiles and WPA3 support
+- WI-FI with profiles and WPA3 support
 - Full PortMaster support (both 64 and 32 bit)
 - RetroAchievements
 - HDMI support (except rg28xx)
@@ -53,17 +53,19 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://github.com/knulli-cfw/distribution/releases)
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx and rg cubexx series
+- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - EmulationStation frontend
 - Fixed analogue stick cardinal snapping issue
 - Bluetooth support for both controllers and earphones
-- Wifi with profiles support (up to 3 profiles)
+- WI-FI with profiles support (up to 3 profiles)
 - RetroAchievements
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - In-game translation
 - HDMI support
 - USB OTG support
+- ADB support
+- MTP support
 - Support for RGB lights
 - Theme support
 - Has theme store and users also install themes manually
@@ -78,13 +80,11 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Security features like setting ssh user password and password protect accessing network shares.
 - Multilingual
 ### Cons:
-- No support for rg34xx
 - Longer boot times
 - Deadly less frequent public updates
-- No OTA updates (has the option but does not work)
 - Must do clean install when major updates
 - No community apps
-- No wifi WPA3 support
+- No WI-FI WPA3 support
 
 -------------------- 
 ## [knulli alpha (batocera)](https://knulli.org/)
@@ -95,11 +95,10 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
 - Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
-- Trying to use mainline Linux kernel
 - EmulationStation frontend
 - Fixed analogue stick cardinal snapping issue
 - Bluetooth support for both controllers and earphones
-- Wifi with profiles support (up to 3 profiles)
+- WI-FI with profiles support (up to 3 profiles)
 - RetroAchievements
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
@@ -127,7 +126,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No OTA updates
 - Must do clean install when major updates
 - No community apps
-- No wifi WPA3 support
+- No WI-FI WPA3 support
 
 -------------------- 
 ## [MinUI](https://github.com/shauninman/MinUI/blob/main/README.md)
@@ -146,7 +145,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has ability to do dirty update
 ### Cons:
 - Less support for emulation of game consoles
-- No wifi
+- No WI-FI
 - No bluetooth
 - ? No USB OTG supoort
 - No PortMaster support
@@ -173,7 +172,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Trying to use mainline Linux kernel
 - EmulationStation frontend
 - Bluetooth support for both controllers and earphones
-- Wifi support
+- WI-FI support
 - RetroAchievements
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
@@ -194,8 +193,8 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Longer boot times
 - No USB OTG supoort
 - No HDMI support
-- No wifi profiles support
-- No wifi WPA3 support (will fixed)
+- No WI-FI profiles support
+- No WI-FI WPA3 support (will fixed)
 - No RGB support
 - No community apps
   
@@ -212,7 +211,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Trying to use mainline Linux kernel
 - EmulationStation frontend
 - Bluetooth support for both controllers and earphones
-- Wifi support
+- WI-FI support
 - RetroAchievements
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
@@ -232,8 +231,8 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has ramdom freezing, sleep and suspend issues
 - Longer boot times
 - No HDMI support
-- No wifi profiles support
-- No wifi WPA3 support (will fixed)
+- No WI-FI profiles support
+- No WI-FI WPA3 support (will fixed)
 - No OTA updates
 - No community apps
 
@@ -250,7 +249,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - More frequent updates
 - All stock os features & options
 - Bluetooth support (only for controllers)
-- Wifi with profiles and WPA3 support
+- WI-FI with profiles and WPA3 support
 - RetroAchievements
 - Built-in scraper (via pre-installed 3rd party app)
 - HDMI support
@@ -281,7 +280,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Bundled with a lot of games
 - Has piracy rom downloader tool
 - Bluetooth support (only for controllers)
-- Wifi with profiles and WPA3 support
+- WI-FI with profiles and WPA3 support
 - Built-in scraper
 - RetroAchievements
 - HDMI support
