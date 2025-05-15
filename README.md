@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 07/05/2025*
+*last update: 15/05/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -241,14 +241,15 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
 ### Info:
 - Status: Stable
-- Last update: 25/02/2025
+- Last update: 15/05/2025
 - [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
 - Source: -
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg34xxsp series
 - Fixed analogue stick cardinal snapping issue
 - More frequent updates
 - All stock os features & options
+- Has piracy rom downloader tool
 - Bluetooth support (only for controllers)
 - WI-FI with profiles and WPA3 support
 - RetroAchievements
@@ -257,7 +258,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Support for RGB lights
 - Has a lot of pre-installed apps
 - Theming support
-- Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
+- Has a lot of connection & file sharing options (samba, syncthing, ftp, ssh etc.)
 - Better sleep functions
 - Support 2nd card setup
 - Has ability to do dirty update
@@ -277,7 +278,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://win.anbernic.com/download_data/403.html)
 - Source: -
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg34xxsp series
 - Bundled with a lot of games
 - Has piracy rom downloader tool
 - Bluetooth support (only for controllers)
