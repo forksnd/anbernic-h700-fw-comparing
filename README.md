@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
 
-*last update: 15/05/2025*
+*last update: 20/05/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -91,7 +91,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [knulli alpha (batocera)](https://knulli.org/)
 ### Info:
 - Status: WIP
-- Last update: 05/05/2025
+- Last update: 19/05/2025
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
@@ -163,7 +163,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [ROCKNIX](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
 - Status: Stable and Nightly
-- Last update: 18/01/2025 (stable)
+- Last update: 17/05/2025 (stable)
 - [Stable releases](https://github.com/ROCKNIX/distribution/releases/)
 - [Nightly releases](https://nightly.rocknix.org/)
 - [Source](https://github.com/ROCKNIX/distribution/)
@@ -178,6 +178,8 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - In-game translation
+- USB OTG support
+- Support for RGB lights
 - More frequent stable updates via OTA
 - Daily nightly updates via OTAc
 - Has ability to do dirty update
@@ -192,11 +194,9 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ### Cons:
 - Has ramdom freezing, sleep and suspend issues
 - Longer boot times
-- No USB OTG supoort
 - No HDMI support
 - No WI-FI profiles support
 - No WI-FI WPA3 support (will fixed)
-- No RGB support
 - No community apps
   
 --------------------  
@@ -217,6 +217,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - In-game translation
+- USB OTG support
 - Support for RGB lights
 - More frequent updates
 - Theme support
@@ -234,7 +235,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - No HDMI support
 - No WI-FI profiles support
 - No WI-FI WPA3 support (will fixed)
-- No OTA updates
 - No community apps
 
 -------------------- 
@@ -254,9 +254,9 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - WI-FI with profiles and WPA3 support
 - RetroAchievements
 - Built-in scraper (via pre-installed 3rd party app)
+- Full PortMaster support (both 64 and 32 bit)
 - HDMI support
 - Support for RGB lights
-- Has a lot of pre-installed apps
 - Theming support
 - Has a lot of connection & file sharing options (samba, syncthing, ftp, ssh etc.)
 - Better sleep functions
@@ -267,7 +267,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Multilingual
 ### Cons:
 - No source code
-- Partial PortMaster support
 - No OTA updates
 
 -------------------- 
