@@ -254,7 +254,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - WI-FI with profiles and WPA3 support
 - RetroAchievements
 - Built-in scraper (via pre-installed 3rd party app)
-- Full PortMaster support (both 64 and 32 bit)
+- Partial PortMaster support
 - HDMI support
 - Support for RGB lights
 - Theming support
