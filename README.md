@@ -1,6 +1,6 @@
 # Regularly updated list of firmware compare for Anbernic H700 devices
 
-Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX
+Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX, RG34XXSP
 
 *last update: 25/05/2025*
 
@@ -95,7 +95,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
+- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg34xxsp series
 - EmulationStation frontend
 - Fixed analogue stick cardinal snapping issue
 - Bluetooth support for both controllers and earphones
@@ -244,7 +244,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
 - Source: -
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg34xxsp series
+- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg35xxsp series
 - Fixed analogue stick cardinal snapping issue
 - More frequent updates
 - All stock os features & options
