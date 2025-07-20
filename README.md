@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX, RG34XXSP
 
-*last update: 28/05/2025*
+*last update: 20/07/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -91,7 +91,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [knulli alpha (batocera)](https://knulli.org/)
 ### Info:
 - Status: WIP
-- Last update: 06/06/2025
+- Last update: 12/07/2025
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
@@ -120,10 +120,10 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Has a lot of customization options
 - Security features like setting ssh user password and password protect accessing network shares.
 - More frequent updates
+- OTA updates
 - Multilingual
 ### Cons:
 - Longer boot times
-- No OTA updates
 - Must do clean install when major updates
 - No community apps
 - No WI-FI WPA3 support
