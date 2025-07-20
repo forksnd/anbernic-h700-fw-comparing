@@ -240,7 +240,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
 ### Info:
 - Status: Stable
-- Last update: 06/06/2025
+- Last update: 18/07/2025
 - [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
 - Source: -
 ### Pros:
@@ -253,7 +253,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - WI-FI with profiles and WPA3 support
 - RetroAchievements
 - Built-in scraper (via pre-installed 3rd party app)
-- Partial PortMaster support
+- Full PortMaster support (both 64 and 32 bit)
 - HDMI support
 - Support for RGB lights
 - Theming support
