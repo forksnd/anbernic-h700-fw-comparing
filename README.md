@@ -1,8 +1,8 @@
 # Regularly updated list of firmware compare for Anbernic H700 devices
 
-Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG40XX H, RG 40XXV, RG CUBEXX, RG34XX, RG34XXSP
+Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG40XX H, RG 40XXV, RG CUBEXX, RG 34XX, RG 34XXSP and RG 35XXPro
 
-*last update: 20/07/2025*
+*last update: 20/08/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -14,7 +14,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://muos.dev/release/current)  
 - [Source](https://github.com/MustardOS)  
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Fixed analogue stick cardinal snapping issue
 - Fast boot times
 - WI-FI with profiles and WPA3 support
@@ -49,11 +48,10 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 ## [knulli (batocera)](https://knulli.org/)
 ### Info:
 - Status: Stable
-- Last update: 05/05/2025
+- Last update: 13/08/2025
 - [Releases](https://github.com/knulli-cfw/distribution/releases)
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - EmulationStation frontend
 - Fixed analogue stick cardinal snapping issue
 - Bluetooth support for both controllers and earphones
@@ -74,15 +72,14 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Support 2nd card setup
 - Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
 - Supports changing hostname
-- Can format other SDcards and install Knulli for various other consoles.
+- Can format other SDcards and install Knulli for various other consoles
 - Powersaving modes
 - Has a lot of customization options
-- Security features like setting ssh user password and password protect accessing network shares.
+- Security features like setting ssh user password and password protect accessing network shares
+- OTA updates
 - Multilingual
 ### Cons:
-- Longer boot times
 - Deadly less frequent public updates
-- No OTA updates
 - Must do clean install when major updates
 - No community apps
 - No WI-FI WPA3 support
@@ -95,7 +92,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg34xxsp series
 - EmulationStation frontend
 - Fixed analogue stick cardinal snapping issue
 - Bluetooth support for both controllers and earphones
@@ -115,15 +111,14 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - Support 2nd card setup
 - Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
 - Supports changing hostname
-- Can format other SDcards and install Knulli for various other consoles.
+- Can format other SDcards and install Knulli for various other consoles
 - Powersaving modes
 - Has a lot of customization options
-- Security features like setting ssh user password and password protect accessing network shares.
+- Security features like setting ssh user password and password protect accessing network shares
 - More frequent updates
 - OTA updates
 - Multilingual
 ### Cons:
-- Longer boot times
 - Must do clean install when major updates
 - No community apps
 - No WI-FI WPA3 support
@@ -136,7 +131,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://github.com/shauninman/MinUI/releases)
 - [Source](https://github.com/shauninman/MinUI)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Fixed analogue stick cardinal snapping issue
 - Fast boot times
 - Minimal interface with minimal setup/options
@@ -167,7 +161,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Nightly releases](https://nightly.rocknix.org/)
 - [Source](https://github.com/ROCKNIX/distribution/)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Fixed analogue stick cardinal snapping issue
 - Trying to use mainline Linux kernel
 - EmulationStation frontend
@@ -206,7 +199,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://github.com/loki666/ROCKNIX/releases)
 - [Source](https://github.com/loki666/ROCKNIX)
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx and rg34xx series
 - Fixed analogue stick cardinal snapping issue
 - Trying to use mainline Linux kernel
 - EmulationStation frontend
@@ -244,7 +236,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
 - Source: -
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg35xxsp series
 - Fixed analogue stick cardinal snapping issue
 - More frequent updates
 - All stock os features & options
@@ -276,7 +267,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX (2024) RG
 - [Releases](https://win.anbernic.com/download_data/403.html)
 - Source: -
 ### Pros:
-- Full support for rg40xx, rg35xx, rg28xx, rg cubexx, rg34xx and rg34xxsp series
 - Bundled with a lot of games
 - Has piracy rom downloader tool
 - Bluetooth support (only for controllers)
