@@ -10,7 +10,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 ## [muOS](https://muos.dev/)  
 ### Info:  
 - Status: Stable  
-- Last update: 24/06/2025  
+- Last update: 30/08/2025  
 - [Releases](https://muos.dev/release/current)  
 - [Source](https://github.com/MustardOS)  
 ### Pros:
@@ -39,7 +39,6 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 - Multilingual
 ### Cons:
 - No bluetooth (possible with 3rd party apps)
-- No HDMI support for rg28xx
 - No OTA updates
 - Must do clean install when major updates
 - No built-in scraping (possible with 3rd party apps)
@@ -88,7 +87,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 ## [knulli alpha (batocera)](https://knulli.org/)
 ### Info:
 - Status: WIP
-- Last update: 12/07/2025
+- Last update: 02/09/2025
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
