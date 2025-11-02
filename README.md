@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG40XX H, RG 40XXV, RG CUBEXX, RG 34XX, RG 34XXSP and RG 35XXPro
 
-*last update: 12/10/2025*
+*last update: 02/11/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -126,7 +126,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 ## [MinUI](https://github.com/shauninman/MinUI/blob/main/README.md)
 ### Info:
 - Status: Stable
-- Last update: 20/09/2025
+- Last update: 23/10/2025
 - [Releases](https://github.com/shauninman/MinUI/releases)
 - [Source](https://github.com/shauninman/MinUI)
 ### Pros:
@@ -193,7 +193,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 --------------------  
 ## [ROCKNIX UNOFFICIAL](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
 ### Info:
-- Status: Stable, Pre-Release, Unofficial
+- Status: Discontinued, Unofficial
 - Last update: 10/04/2025
 - [Releases](https://github.com/loki666/ROCKNIX/releases)
 - [Source](https://github.com/loki666/ROCKNIX)
