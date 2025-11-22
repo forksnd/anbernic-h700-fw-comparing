@@ -2,7 +2,7 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG40XX H, RG 40XXV, RG CUBEXX, RG 34XX, RG 34XXSP and RG 35XXPro
 
-*last update: 02/11/2025*
+*last update: 22/11/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
@@ -87,7 +87,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 ## [knulli alpha (batocera)](https://knulli.org/)
 ### Info:
 - Status: WIP
-- Last update: 02/09/2025
+- Last update: 12/10/2025
 - Releases: no public releases
 - [Source](https://github.com/knulli-cfw)
 ### Pros:
@@ -231,7 +231,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 ## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
 ### Info:
 - Status: Stable
-- Last update: 23/10/2025
+- Last update: 15/11/2025
 - [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
 - Source: -
 ### Pros:
@@ -242,7 +242,7 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 - Bluetooth support (only for controllers)
 - WI-FI with profiles and WPA3 support
 - RetroAchievements
-- Built-in scraper (via pre-installed 3rd party app)
+- Built-in scraper
 - Full PortMaster support (both 64 and 32 bit)
 - HDMI support
 - Support for RGB lights
