@@ -2,48 +2,11 @@
 
 Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG40XX H, RG 40XXV, RG CUBEXX, RG 34XX, RG 34XXSP and RG 35XXPro
 
-*last update: 07/12/2025*
+*last update: 08/12/2025*
 
 [NORMAL VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README.md) / [TABLE VIEW](https://github.com/symbuzzer/anbernic-h700-fw-comparing/blob/main/README_new.md)
 -------------------- 
 
-## [muOS](https://muos.dev/)  
-### Info:  
-- Status: Stable  
-- Last update: 02/12/2025  
-- [Releases](https://muos.dev/release/current)  
-- [Source](https://github.com/MustardOS)  
-### Pros:
-- Fixed analogue stick cardinal snapping issue
-- Fast boot times
-- WI-FI with profiles and WPA3 support
-- Full PortMaster support (both 64 and 32 bit)
-- RetroAchievements
-- HDMI support (except rg28xx)
-- USB OTG support
-- ADB support
-- MTP support
-- Support for RGB lights
-- Has Archive Manager app (basic app, patch, theme, backup etc. installer)
-- Has a lot of pre-installed apps
-- Has a lot of pre-installed themes
-- Has a lot of community themes
-- Searching games support
-- Better battery management
-- Better sleep options/functions
-- Support 2nd card setup
-- Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
-- Has a lot of community apps on Discord
-- More frequent public updates
-- Has roadmap for future releases
-- Multilingual
-### Cons:
-- No bluetooth (possible with 3rd party apps)
-- No OTA updates
-- Must do clean install when major updates
-- No built-in scraping (possible with 3rd party apps)
-
--------------------- 
 ## [knulli (batocera)](https://knulli.org/)
 ### Info:
 - Status: Stable
@@ -122,6 +85,74 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 - No community apps
 - No WI-FI WPA3 support
 
+--------------------  
+## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
+### Info:
+- Status: Stable
+- Last update: 22/11/2025
+- [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
+- Source: -
+### Pros:
+- Fixed analogue stick cardinal snapping issue
+- More frequent updates
+- All stock os features & options
+- Has piracy rom downloader tool
+- Bluetooth support (only for controllers)
+- WI-FI with profiles and WPA3 support
+- RetroAchievements
+- Built-in scraper
+- Full PortMaster support (both 64 and 32 bit)
+- HDMI support
+- Support for RGB lights
+- Theming support
+- Has a lot of connection & file sharing options (samba, syncthing, ftp, ssh etc.)
+- Better sleep functions
+- Support 2nd card setup
+- Has ability to do dirty update
+- Has a lot of pre-installed apps
+- Has a lot of pre-installed themes
+- OTA updates
+- Multilingual
+### Cons:
+- No source code
+
+-------------------- 
+## [muOS](https://muos.dev/)  
+### Info:  
+- Status: Stable  
+- Last update: 02/12/2025  
+- [Releases](https://muos.dev/release/current)  
+- [Source](https://github.com/MustardOS)  
+### Pros:
+- Fixed analogue stick cardinal snapping issue
+- Fast boot times
+- WI-FI with profiles and WPA3 support
+- Full PortMaster support (both 64 and 32 bit)
+- RetroAchievements
+- HDMI support (except rg28xx)
+- USB OTG support
+- ADB support
+- MTP support
+- Support for RGB lights
+- Has Archive Manager app (basic app, patch, theme, backup etc. installer)
+- Has a lot of pre-installed apps
+- Has a lot of pre-installed themes
+- Has a lot of community themes
+- Searching games support
+- Better battery management
+- Better sleep options/functions
+- Support 2nd card setup
+- Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
+- Has a lot of community apps on Discord
+- More frequent public updates
+- Has roadmap for future releases
+- Multilingual
+### Cons:
+- No bluetooth (possible with 3rd party apps)
+- No OTA updates
+- Must do clean install when major updates
+- No built-in scraping (possible with 3rd party apps)
+
 -------------------- 
 ## [MinUI](https://github.com/shauninman/MinUI/blob/main/README.md)
 ### Info:
@@ -189,76 +220,8 @@ Anbernic H700 devices: RG28XX, RG35XX Plus, RG35XX H, RG35XXSP, RG35XX 2024, RG4
 - No WI-FI profiles support
 - No WI-FI WPA3 support (will fixed)
 - No community apps
-  
---------------------  
-## [ROCKNIX UNOFFICIAL](https://github.com/loki666/ROCKNIX/blob/dev/README.md)
-### Info:
-- Status: Discontinued, Unofficial
-- Last update: 10/04/2025
-- [Releases](https://github.com/loki666/ROCKNIX/releases)
-- [Source](https://github.com/loki666/ROCKNIX)
-### Pros:
-- Fixed analogue stick cardinal snapping issue
-- Trying to use mainline Linux kernel
-- EmulationStation frontend
-- Bluetooth support for both controllers and earphones
-- WI-FI support
-- RetroAchievements
-- Built-in scraper
-- Full PortMaster support (both 64 and 32 bit)
-- In-game translation
-- USB OTG support
-- Support for RGB lights
-- More frequent updates
-- Theme support
-- Samba support for file sharing
-- Support 2nd card setup
-- Has a lot of connection & file sharing options (syncthing, ftp, ssh etc.)
-- Has VPN
-- Has cloud drive sync
-- Has ability to do dirty update
-- Has a lot of customization options
-- Multilingual
-### Cons:
-- Has ramdom freezing, sleep and suspend issues
-- Longer boot times
-- No HDMI support
-- No WI-FI profiles support
-- No WI-FI WPA3 support (will fixed)
-- No community apps
 
--------------------- 
-## [cbepx-me modded stock os](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/blob/main/README.md)
-### Info:
-- Status: Stable
-- Last update: 22/11/2025
-- [Releases](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification/releases)
-- Source: -
-### Pros:
-- Fixed analogue stick cardinal snapping issue
-- More frequent updates
-- All stock os features & options
-- Has piracy rom downloader tool
-- Bluetooth support (only for controllers)
-- WI-FI with profiles and WPA3 support
-- RetroAchievements
-- Built-in scraper
-- Full PortMaster support (both 64 and 32 bit)
-- HDMI support
-- Support for RGB lights
-- Theming support
-- Has a lot of connection & file sharing options (samba, syncthing, ftp, ssh etc.)
-- Better sleep functions
-- Support 2nd card setup
-- Has ability to do dirty update
-- Has a lot of pre-installed apps
-- Has a lot of pre-installed themes
-- OTA updates
-- Multilingual
-### Cons:
-- No source code
-
--------------------- 
+--------------------
 ## [stock](https://win.anbernic.com/download_data/403.html)
 ### Info:
 - Status: Stable
